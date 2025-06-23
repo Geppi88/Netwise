@@ -1,4 +1,5 @@
 🥚 Nestwise – Smarter Spending, Brighter Future
+<br>
 Nestwise is a modern, user-friendly web app designed to help people make more informed financial decisions when considering a purchase. By comparing the true cost of buying (with or without financing) to the potential growth of saving or investing that money, Nestwise empowers users to see the “opportunity cost” of their spending in a clear, visual way.
 <br>
 <br>
